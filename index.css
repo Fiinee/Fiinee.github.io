@@ -98,7 +98,7 @@
 /* FOOTER */
 
 .footer{
-    background: url(footer-bg.jpg);
+    background-color: black;
     background-size: cover;
     padding: 100px 0px;
 }
